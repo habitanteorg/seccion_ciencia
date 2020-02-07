@@ -1,5 +1,5 @@
 ---
-title: "Cambio climático: La Tierra tuvo su década más caliente registrada en los 2010"
+title: "Clima: Los 2010 fueron la década más caliente registrada"
 linkTitle: "Década más caliente registrada"
 date: 2020-01-15
 slug: "cambio-climatico-decada-mas-caliente-2010"
@@ -19,13 +19,13 @@ fin a la manera que el cambio climático antropogénico se mantiene destrozando 
 "Si piensas que has escuchado esta historia antes, no has visto nada aún,"
 Gavin Schmidt, director del Instituto Goddard para los Estudios Espaciales de NASA,
 dijo al concluir de una década plagada por incendios embravecidos, hielo fundente y
-tiempo atmosférico extremo que los investigadores hanligado repetidamente a la
+tiempo atmosférico extremo que los investigadores han ligado repetidamente a la
 actividad humana. "Esto es real. Esto está pasando."
 
 Los 2010 promediaron 14.7 grados centígrados a nivel mundial, o 0.8 grados C más alto
 que el promedio del siglo 20 y más de un quinto de grado C más cálido que la década
 previa, la cual había sido la más caliente registrada, de acuerdo con la
-Administración Nacional Oceánica y Atmosfércia de EE.UU. (NOAA por sus siglas en inglés).
+Administración Nacional Oceánica y Atmosférica de EE.UU. (NOAA por sus siglas en inglés).
 
 La década tuvo ocho de los 10 años más calientes registrados. Los únicos otros años
 en los top 10 fueron 2005 y 1998.
@@ -55,7 +55,7 @@ Indicó que esto muestra que la meta global no puede alcanzarse. (NOAA y la
 Organización Meteorológica Mundial ponen el calentamiento desde el amanecer de
 la industrias ligeramente más abajo.)
 
-"Tenemos fuerte calentamiento gloabl antropogénico," indicó Friederike Otto,
+"Tenemos fuerte calentamiento global antropogénico," indicó Friederike Otto,
 un científico del clima de la Universidad de Oxford. "Lo que observamos aquí es
 exactamente lo que nuestro entendimiento físico nos dice que anticipemos y no
 hay otra explicación."
@@ -80,7 +80,7 @@ NOAA indicó que la temperatura global promedio en 2019 fue 14.85 C, o sólo uno
 cuantos centésimos de grado debajo del 2016, cuando el mundo recibió calor extra
 de El Niño. Eso es 0.95 C más cálido que finales del siglo 19.
 
-Partes de Europa, Asia, Australia y Suramérica tuvieron temperaturas record
+Partes de Europa, Asia, Australia y Sudamérica tuvieron temperaturas record
 en 2019, al igual que Alaska, Nueva Zelanda y Nuevo México, indicó NOAA.
 Alaska estuvo 3.4 C grados más cálida que el promedio, en 0.1 C.
 Fue la primera vez en la historia registrada que la temperatura anual promedio
@@ -93,11 +93,11 @@ o más en daños el último año, de acuerdo a NOAA.
 Globalmente los pasados cinco años han sido los cinco más calientes registrados,
 cerca de 0.9 C más cálidos que el promedio, de acuerdo a NOAA.
 El último año que la Tierra estuvo más fría que el promedio del siglo 20 fue
-1976, antes que hubiesen nacido el candidato presidencial demócrata Pete BUttigieg,
+1976, antes que hubiesen nacido el candidato presidencial demócrata Pete Buttigieg,
 el Presidente Francés Emmanuel Macron y Donald Trump Jr.
 
 Si quieres saber lo que esto significa para la gente y el mundo, sólo mira
-Australia asotada por los incendios naturales, indicaron Schmidt y otros.
+Australia azotada por los incendios naturales, indicaron Schmidt y otros.
 
 El calentamiento global ya está viéndose en las holas de calor, el derretimiento
 de las capas de hielo, más incendios naturales, tormentas más fuertes,
@@ -115,16 +115,3 @@ mencionando un trabajador de la construcción y un hombre anciano sin aire acond
 quienes fueron sus pacientes el último verano.
 
 "El planeta tiene una fiebre," Salas dijo, "y ése es su síntoma."
-
-
-
-
-
-
-
-
-
-
-
-
-
